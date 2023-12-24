@@ -28,7 +28,6 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 • Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 • Ensure your presentation is professional, logical, and visually appealing.
 
-<<<<<<< HEAD
 # Important
 I was unable to submit my workbook as the file is over 100 mb. Here is a link instead: https://public.tableau.com/views/Story4_17033870580770/Story4?:language=en-US&:display_count=n&:origin=viz_share_link
 
@@ -65,6 +64,3 @@ On the left you can see the geolocation of each ending station over the course o
 On the right you can see the most popular stations at the top and the least popular station at the bottom.
 
 Upon further inspection there seems to be common stations with less popularity and particular stations who are the publics favorites similar to the starting stations.. 
-=======
-# Story Telling:
->>>>>>> parent of ef9543a (First Submission Updates)
